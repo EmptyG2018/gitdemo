@@ -1,2 +1,2 @@
-window.js 
-window.lsfeg
+window1
+window2
